@@ -1,0 +1,17 @@
+components same work as a java script function. 
+
+components return html via render function. 
+
+JSX in javascript:-
+->jsx fragment in react is a tag which is requires to use the html in our program. 
+->basically we can say jsx is a combination of html and java script. 
+
+
+HOOKS:-
+->hooks is used for the change the state.
+->react hooks are simple javascript functions that we can use to isolate the reusable part from a functional component. 
+->hooks allow function components to have access to state and other react features. 
+->hooks is not working inside the class. 
+
+
+

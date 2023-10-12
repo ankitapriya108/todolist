@@ -1,0 +1,43 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;   
+}
+.main_div{
+  width: 1520px;
+  height: 750px;
+  background-color: blue;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.center_div{
+  height: 300px;
+  width: 400px;
+  background-color: red;
+  color: white;
+  padding: 2rem;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 10px 10px 10px black;
+}
+.btn_div button{
+height: 50px;
+width: 150px;
+background-color: white;
+border-radius: 25px;
+border: 3px solid black;
+color: black;
+margin: 40px 17px;
+padding: 10px 24px;
+}
+.btn_div{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+center_div h1{
+  padding-top: 30px;
+}
